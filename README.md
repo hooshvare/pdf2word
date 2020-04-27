@@ -35,5 +35,5 @@ pdf_to_word('./samples/sample-pdf-text.pdf', './samples/', 'fas')
 
 ## License
 
-Copyright (C) 2019, [Hooshvare Team](https://hooshvare.com/)
+Copyright (C) 2020, [Hooshvare Team](https://hooshvare.com/)
 Licensed under the MIT license, see LICENSE file for details.
